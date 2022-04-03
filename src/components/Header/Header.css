@@ -1,0 +1,29 @@
+.header-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+    position: sticky;
+    top: 0;
+}
+.text-logo h1{
+    font-family:monospace;
+    background-color: rgb(129, 127, 124);
+    margin-left: 20px;
+    padding: 8px 12px;
+    border-radius: 10px;
+}
+.nav-section{
+    margin-right: 25px;
+}
+.nav-link{
+    text-decoration: none;
+    color: wheat;
+    margin: 0 15px;
+    padding: 6px 10px;
+    box-shadow: 0 0px 5px rgb(54, 54, 53);
+}
+.nav-link:hover{
+    box-shadow: 0 0px 5px wheat;
+}

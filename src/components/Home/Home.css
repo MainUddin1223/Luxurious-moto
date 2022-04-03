@@ -1,0 +1,32 @@
+.welcome-section{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-top: 10px;
+}
+.home-description{
+    text-align: justify;
+    padding: 10px;
+}
+.home-description h1{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 50px;
+}
+.home-description p{
+font-size: 18px;
+line-height: 25px;
+}
+.home-description button{
+    padding: 10px 15px;
+    font-size: 20px;
+    background-color: wheat;
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    margin-top: 80px;
+
+    border-radius: 8px;
+}
+.cover-photo img{
+    width: 95%;
+  height: auto;
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "James Hactor",
+        "comment": "I'm very satisfied with your services.A real service center.",
+        "rating": 5,
+        "img": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnJpdGlzaCUyMG1hbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 2,
+        "name": "Alex Carry",
+        "comment": "Such a nice and great service center.I'm very glad with your services",
+        "rating": 5,
+        "img": "https://images.unsplash.com/photo-1496345875659-11f7dd282d1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fGJyaXRpc2glMjBtYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 3,
+        "name": "Jonson",
+        "comment": "A nice service center with very helpful stuff",
+        "rating": 5,
+        "img": "https://images.unsplash.com/photo-1590086782792-42dd2350140d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGJyaXRpc2glMjBtYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 4,
+        "name": "Jesmin",
+        "comment": "Services are not so bad.",
+        "rating": 4.5,
+        "img": "https://cdn.images.express.co.uk/img/dynamic/12/590x/Main-471989.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Ema Watson",
+        "comment": "Such a great service.Highly re-commanded",
+        "rating": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtT5IVhfWYfOkgxsSs-UKZQSVvKwsqFs8jjg&usqp=CAU"
+    },
+    {
+        "id": 6,
+        "name": "Taylor ",
+        "comment": "Nice service.",
+        "rating": 4,
+        "img": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGJyaXRpc2glMjBtYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 7,
+        "name": "Jonson",
+        "comment": "services are well . Need to upgrade",
+        "rating": 3,
+        "img": "https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGJyaXRpc2glMjBtYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 8,
+        "name": "Rihanna",
+        "comment": "Nice service and re-commanded",
+        "rating": 5,
+        "img": "https://image.shutterstock.com/image-photo/portrait-british-muslim-woman-urban-260nw-588834956.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Alex Hels",
+        "comment": "very poor service.",
+        "rating": 2,
+        "img": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGJyaXRpc2glMjBtYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 10,
+        "name": "James Hactor",
+        "comment": "I'm very satisfied with your services.A real service center.",
+        "rating": 5,
+        "img": "https://images.unsplash.com/photo-1541752171745-4176eee47556?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGJyaXRpc2glMjBtYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    }
+]
