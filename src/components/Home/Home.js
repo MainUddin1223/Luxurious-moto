@@ -21,17 +21,17 @@ const Home = () => {
             </div>
             <div className="review-section">
                 <h1>Review</h1>
-                <div>
+                <div className='home-review'>
                     {
-                        first3Review.map(review => <div>
+                        first3Review.map(review => <div className='review-item'>
                             <img src={review.img} />
-                            <h4>Name:{review.name}</h4>
-                            <p>Feedback:{review.comment}</p>
+                            <h4>{review.name}</h4>
+                            <p>Feedback: {review.comment}</p>
                             <p>Rating : {review.rating}</p>
                         </div>)
                     }
                 </div>
-                <button><Link to='/review'>More review...</Link></button>
+                <Link className='more-review' to='/review'>More review...</Link>
             </div>
 
         </div>
