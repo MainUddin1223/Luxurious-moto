@@ -1,0 +1,8 @@
+.not-found-div h1{
+    margin-top: 40px;
+    font-size: 5rem;
+    color: rgb(224, 60, 60);
+}
+.not-found-div p{
+    font-size: 30px;
+}

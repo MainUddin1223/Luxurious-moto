@@ -46,3 +46,16 @@ line-height: 25px;
     border-radius: 5px;
    
 }
+@media only screen and (max-width: 950px){
+    .welcome-section{
+        grid-template-columns: 1fr;
+    }
+    .home-review{
+        grid-template-columns: 1fr;
+        width: 65%;
+     margin: 0 auto;
+    }
+    .more-review{
+        width: 25%;
+    }
+}

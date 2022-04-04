@@ -1,0 +1,20 @@
+.analytics>h1{
+   font-size: 3em; 
+}
+.dashboard-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+
+}
+.chart{
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    margin-top: 25px;
+}
+@media only screen and (max-width: 950px){
+    .dashboard-container{
+        grid-template-columns: 1fr;
+    
+    }
+}

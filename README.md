@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# LUXURIOUS MOTO
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This is a Automobile based website
+
+
 
 ## Available Scripts
 
@@ -13,7 +15,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
+## Collaboration
+***
+Give instructions on how to collaborate with your project.
+> Maybe you want to write a quote in this part. 
+> Should it encompass several lines?
+> This is how you do it.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
