@@ -1,6 +1,6 @@
 # LUXURIOUS MOTO
 
-## This is a Automobile based website
+## This is an Automobile based website
 
 
 
@@ -8,8 +8,11 @@
 
 In the project directory, you can run:
 
-### `npm start`
+### Live link
+[https://tangerine-raindrop-8cc8d3.netlify.app/](https://tangerine-raindrop-8cc8d3.netlify.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
- * Bullet list
+ * This is an automobile services based website.
+ * We sell services and luxurious car
+ * we have strong service chain
+ * react is used to build it
+ 
