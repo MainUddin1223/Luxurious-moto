@@ -1,0 +1,11 @@
+.blogs-container{
+    width: 75%;
+    margin: 0 auto;
+    text-align: justify;
+}
+.question{
+    margin-top:10px ;
+    background-color: blanchedalmond;
+    font-size: 20px;
+    padding: 10px;
+}

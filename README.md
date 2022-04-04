@@ -3,11 +3,6 @@
 ## This is an Automobile based website
 
 
-
-## Available Scripts
-
-In the project directory, you can run:
-
 ### Live link
 [https://tangerine-raindrop-8cc8d3.netlify.app/](https://tangerine-raindrop-8cc8d3.netlify.app/)
 
